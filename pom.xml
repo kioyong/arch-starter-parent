@@ -69,6 +69,13 @@
         </dependencies>
     </dependencyManagement>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/kioyong/arch-starter-parent</url>
+        </repository>
+    </distributionManagement>
 
 
 </project>
