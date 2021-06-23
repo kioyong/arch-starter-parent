@@ -8,7 +8,7 @@
         <version>2.5.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.arch</groupId>
+    <groupId>com.kioyong.arch</groupId>
     <artifactId>arch-starter-parent</artifactId>
     <version>1.0.0</version>
     <name>arch-starter-parent</name>
@@ -73,7 +73,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/kioyong/</url>
+            <url>https://maven.pkg.github.com/kioyong</url>
         </repository>
   </distributionManagement>
 
